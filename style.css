@@ -1,29 +1,12 @@
 
-
-
-
-/* [ -- Master Stylesheet -- ]
-
-------------------------------------------------------
-:: Template Name: World - Blog &amp; Magazine Template
-:: Author: Colorlib
-:: Author URL: https://colorlib.com 
-:: Version: 1.0.0
-:: Created: March 21, 2018
-:: Last Updated: March 21, 2018
--------------------------------------------------- */
-/* Variables */
-/* mixin */
-/* :: Import Fonts */
 @import url("https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700|Work+Sans:300,400,500,600,700");
-/* :: Import All CSS */
 @import url(css/bootstrap.min.css);
 @import url(css/animate.css);
 @import url(css/owl.carousel.css);
 @import url(css/magnific-popup.css);
 @import url(css/font-awesome.min.css);
 @import url(css/themify-icons.css);
-/* :: Base CSS */
+
 * {
   margin: 0;
   padding: 0; }
@@ -2595,4 +2578,4 @@ textarea:focus ~ .highlight {
         font-size: 14px;
         color: #6d6c6a; }
 
-/*# sourceMappingURL=style.css.map */
+
